@@ -65,10 +65,10 @@ export default function Home() {
                   Recent MBA graduate from the University of Michigan Stephen M.
                   Ross School of Business
                 </li>
-                <li>Product &amp; Software Engineering work at J.P. Morgan</li>
                 <li>
-                  Worked on cutting-edge automated trading systems for the
-                  Equity Derivatives Trading Desk
+                  Product and Software Engineering experience at J.P. Morgan,
+                  focused on automated trading systems for the Equity
+                  Derivatives Trading Desk.
                 </li>
                 <li>
                   Studied Computer Science &amp; Economics at Vanderbilt
