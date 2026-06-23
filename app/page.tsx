@@ -68,7 +68,7 @@ export default function Home() {
                 <li>
                   Product and Software Engineering experience at J.P. Morgan,
                   focused on automated trading systems for the Equity
-                  Derivatives Trading Desk.
+                  Derivatives Trading Desk
                 </li>
                 <li>
                   Studied Computer Science &amp; Economics at Vanderbilt
